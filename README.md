@@ -4,16 +4,9 @@
 Este proyecto simula un sistema de reservas de carpas en un balneario.  
 Forma parte de la materia *Programación I – Algoritmos y Estructuras de Datos I*.  
 
-El sistema está desarrollado en *Python*, utilizando exclusivamente las herramientas vistas en clase:  
-- Listas y matrices  
-- Funciones modulares  
-- Manejo de cadenas de caracteres  
-- Generación de datos al azar (random)  
+El sistema está desarrollado en *Python*, utilizando exclusivamente las herramientas vistas en clase
 
 ## 🎯 Objetivos
-- Representar la *disponibilidad de carpas*
-- Permitir registrar *reservas en una lista*.   
-- Evitar reservas duplicadas y mantener la consistencia en la información.  
-- Generar *reportes* como:  
-  - Carpas libres y ocupadas por día  
-  - Cantidad de reservas totales por jornada  
+El objetivo principal del proyecto es desarrollar un sistema que permita al balneario gestionar sus reservas de carpas de manera organizada y eficiente.
+Se busca digitalizar el registro de reservas, controlar la disponibilidad en tiempo real y generar reportes básicos, mejorando así la atención al cliente y optimizando los procesos administrativos.
+
